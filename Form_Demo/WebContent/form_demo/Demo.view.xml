@@ -46,7 +46,9 @@
             press="onPress"
             ></Button>
        
-        
+         <Button type="Default"
+            text="JSON"
+            ></Button>
 
 
 		
