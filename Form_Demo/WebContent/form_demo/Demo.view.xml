@@ -41,11 +41,11 @@
             
             
        
-         <!--   <Button type="Default"
+            <Button type="Default"
             text="JSON"
             press="onPress"
             ></Button>
-       -->
+       
         
 
 
